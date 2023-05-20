@@ -1,0 +1,13 @@
+.submit-button {
+    background-color: red;
+    float: right;
+}
+
+p {
+    color: black;
+}
+
+.text-input {
+    background-color: white;
+    color: black;
+}
